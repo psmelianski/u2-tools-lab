@@ -25,7 +25,7 @@
         <!-- The following settings were suggested by a customer as they are supposed to improve the quality of the text. They were introduced in .Net 4.0 -->
         <Setter Property="TextOptions.TextFormattingMode" Value="Display"/>
         <Setter Property="TextOptions.TextRenderingMode" Value="ClearType"/>
-<!--        <Setter Property="DefaultFontFamily" Value="Lucida Console" /> Clear but all the text is Aligned to the top. -->
+<!--  Pavel      <Setter Property="DefaultFontFamily" Value="Lucida Console" /> Clear but all the text is Aligned to the top. -->
 <!--        <Setter Property="DefaultFontFamily" Value="Verdana" />-->
 <!--        <Setter Property="DefaultFontSize" Value="12" />-->
         <Setter Property="UseLayoutRounding" Value="True"/>
